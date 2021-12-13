@@ -1,0 +1,1 @@
+FYI: due to our HPC system kernel limitations, had to downgrade to get Qt < 5.11.  Ubuntu 18.04 used Qt 5.9 as default, so check!
